@@ -8,7 +8,7 @@ elements.atombombe = {
         "XX|XX|XX",
     ],
     conduct: 1,
-    category: "Weapons",
+    category: "weapons",
     burn: 100,
     burnTime: 1,
     burnInto: "plasma",
