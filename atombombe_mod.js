@@ -12,7 +12,7 @@ elements.atombombe = {
   color: "#4a4a4a",         // inaktiv: dunkelgrau
   colorOn: "#ff4400",       // aktiv (elektrisch): leuchtet rot-orange
   behavior: behaviors.WALL,
-  category: "weapons",
+  category: "Weapons",
   conduct: 1,               // leitet Strom weiter
 
   tick: function(pixel) {
